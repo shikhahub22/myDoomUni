@@ -1,3 +1,3 @@
 # myDoomUni
 This is my first Git Repository.<br>
-Author-Asahi Gour 
+Author-Asahi Gour (lnct)
